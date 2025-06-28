@@ -51,3 +51,8 @@ POST `/api/feed/watched?userId=1&videoId=2` — Logs a video as watched for user
 The ranking is done based on a hybrid of:
 - Recency: Recent videos get higher score.
 - Popularity: Videos with more views are considered better.
+
+## Author
+
+Gaurav Solanki  
+GitHub: https://github.com/GauravS0001
